@@ -18,20 +18,17 @@ An interactive web experience that explores deep-sea life through animations, vi
 * Canvas API
 * SVG
 
-## 📸 Preview
-
-*(Add a screenshot here later if you want)*
 
 ## 🌍 Live Demo
 
-👉 [View Website](https://yourusername.github.io/deep-ocean-site/)
+👉 [View Website](https://davidku14.github.io/deep-ocean-site/)
 
 ## 💻 Installation
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/deep-ocean-site.git
+   git clone https://github.com/davidku14/deep-ocean-site.git
    ```
 2. Open `index.html` in your browser
 
@@ -48,8 +45,5 @@ An interactive web experience that explores deep-sea life through animations, vi
 * Improve performance and animations
 * Convert to a React-based application
 
-## 👤 Author
 
-David Negutescu
 
-* GitHub: https://github.com/yourusername
